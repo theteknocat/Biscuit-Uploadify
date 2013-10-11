@@ -1,0 +1,3 @@
+name = "Uploadify"
+description = "Provides Uploadify front-end scripts and back-end upload handling for use in conjunction with other modules"
+version = "1.0"
